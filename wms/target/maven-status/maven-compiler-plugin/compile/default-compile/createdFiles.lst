@@ -1,0 +1,9 @@
+com\wms\service\UserService.class
+com\wms\WbsApplication.class
+com\wms\common\CodeGenerator$2.class
+com\wms\mapper\UserMapper.class
+com\wms\controller\UserController.class
+com\wms\common\CodeGenerator$1.class
+com\wms\common\CodeGenerator.class
+com\wms\entity\User.class
+com\wms\service\impl\UserServiceImpl.class
